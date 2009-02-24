@@ -44,7 +44,7 @@ In OSX, you'll want to change the previously mentioned line to
  let g:browser = 'open -a /Applications/Firefox.app'
 </code></pre>
 
-You may also need to remove the three ampersands in the file.  Davey did, anyway, as it wouldn't work with them.  I have no idea why.  Perhaps the 'open' command has problems with running asynchronously.  Maybe the ampersand insulted its mother.  Simply deleting the ampersand character will do, but you are welcome to remove the .' &' from each line, if you'd like.
+You may also need to remove the three ampersands in the file.  Davey did, anyway, as it wouldn't work with them.  I have no idea why.  Perhaps the 'open' command has problems with running asynchronously.  Maybe the ampersand insulted its mother.  Simply deleting the ampersand character will do, but you are welcome to remove the <pre><code>.' &'</code></pre> from each line, if you'd like.
 
 
 ## Origin Story ##
