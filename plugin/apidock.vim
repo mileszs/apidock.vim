@@ -1,4 +1,5 @@
 let g:browser = 'firefox -new-tab '
+" On OSX - let g:browser = 'open -a /Applications/Firefox.app'
 
 " Open the Ruby ApiDock page for the word under cursor, in a new Firefox tab
 function! OpenRubyDoc(keyword)

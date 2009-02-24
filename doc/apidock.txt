@@ -30,3 +30,5 @@ If you don't want to use Firefox, the fix is pretty simple.  Edit
  let g:browser = 'firefox -new-tab '
 
 using the shell command for your preferred browser.
+
+See http://github.com/mileszs/apidock.vim/tree/master for more information.
