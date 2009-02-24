@@ -6,6 +6,11 @@ query in a new tab.
 
 ## Installation ##
 
+I recommend downloading the download link up above.  Once unzipped and/or
+un-archived, you should have a directory holding a plugin/ directory and a doc/
+directory.  Those correspond with ~/.vim/plugin and ~/.vim/doc respectively.
+To be a bit more concise:
+
 The file apidock.vim goes in ~/.vim/plugin, and the apidock.txt file belongs in ~/.vim/doc.  Be sure to run
 
     :helptags ~/.vim/doc
