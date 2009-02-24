@@ -46,6 +46,7 @@ In OSX, you'll want to change the previously mentioned line to
 
 You may also need to remove the three ampersands in the file.  Davey did, anyway, as it wouldn't work with them.  I have no idea why.  Perhaps the 'open' command has problems with running asynchronously.  Maybe the ampersand insulted its mother.  Simply deleting the ampersand character will do, but you are welcome to remove the <code>.' &'</code> from each line, if you'd like.
 
+
 ## Origin Story ##
 
 This Vim plugin is mostly copied from the [AkitaOnRails](http://www.akitaonrails.com/) guys' [vimfiles on GitHub](http://github.com/akitaonrails/vimfiles/tree/master).  In particular, [this commit](http://github.com/fabiokung/vimfiles/commit/6723ec056282f4d2d66d214c921111f57fa48035) by Cassio Marques on January 10th, 2009.  I just added the RSpec function, the help docs, and then threw it up on GitHub.  However, do bug _me_ if something isn't working.
