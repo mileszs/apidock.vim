@@ -6,9 +6,11 @@ query in a new tab.
 
 The plugin uses the command 'firefox', which it expects to be in your path, and executable from your shell.  See 'Customization' below if you need some other behavior.  (In particular, all of you OSX users will have to make a small change.)  This should work out of the box on Ubuntu, and most other Linux-based systems on which Firefox is installed.
 
+The *Official Version* of ack.vim is available at [vim.org](http://www.vim.org/scripts/script.php?script_id=2571).
+
 ## Installation ##
 
-If you have "Rake":http://rake.rubyforge.org/ installed, you can just run: `rake install`.
+If you have [Rake](http://rake.rubyforge.org/) installed, you can just run: `rake install`.
 
 The file apidock.vim goes in ~/.vim/plugin, and the apidock.txt file belongs in ~/.vim/doc.  Be sure to run
 
