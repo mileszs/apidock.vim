@@ -8,14 +8,15 @@ The plugin uses the command 'firefox', which it expects to be in your path, and 
 
 ## Installation ##
 
-I recommend downloading the download link up above.  Once unzipped and/or
-un-archived, you should have a directory holding a plugin/ directory and a doc/
-directory.  Those correspond with ~/.vim/plugin and ~/.vim/doc respectively.
-To be a bit more concise:
+If you have "Rake":http://rake.rubyforge.org/ installed, you can just run: `rake install`.
 
 The file apidock.vim goes in ~/.vim/plugin, and the apidock.txt file belongs in ~/.vim/doc.  Be sure to run
 
     :helptags ~/.vim/doc
+
+or
+
+    :helptags $VIMRUNTIME/doc
 
 afterwards.
 
