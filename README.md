@@ -16,10 +16,6 @@ The file apidock.vim goes in ~/.vim/plugin, and the apidock.txt file belongs in 
 
     :helptags ~/.vim/doc
 
-or
-
-    :helptags $VIMRUNTIME/doc
-
 afterwards.
 
 ## Usage ##
