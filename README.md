@@ -32,8 +32,6 @@ afterwards.
 
 This Vim plugin is mostly copied from the [AkitaOnRails](http://www.akitaonrails.com/) guys' [vimfiles on GitHub](http://github.com/akitaonrails/vimfiles/tree/master).  In particular, [this commit](http://github.com/fabiokung/vimfiles/commit/6723ec056282f4d2d66d214c921111f57fa48035) by [Cassio Marques](http://cassiomarques.wordpress.com/) on January 10th, 2009.  I just added the RSpec function, the help docs, and then threw it up on GitHub.  However, do bug _me_ if something isn't working.
 
-Consequently, this is another Vim plugin that I won't be sending to [Vim.org](http://vim.org), without the author's permission.
-
 ## Customization ##
 
 If you don't want to use Firefox, the fix is pretty simple.  Edit
